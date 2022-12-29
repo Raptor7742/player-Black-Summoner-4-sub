@@ -25,7 +25,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Black Summoner - épisode 1 VOSTFR",
+      title: "Black Summoner - épisode 4 VOSTFR",
       description: "Vous regardez",
       image: "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/30c52b8f481041c3e629bbf67c90811e.jpe",
       sources: [
