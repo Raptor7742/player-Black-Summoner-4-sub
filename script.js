@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://upstream.to/85aaq56hwozt",
+            "https://upstream.to/embed-85aaq56hwozt.html",
           label: "720p"
         },
         {
