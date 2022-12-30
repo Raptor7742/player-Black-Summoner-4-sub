@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://mega.nz/file/4GsRlSiI#rl45k5M987JCaacPQjcFFowS6gEgZtSRnGlGtbTfe60",
+            "https://download1322.mediafire.com/x2kzdbcfj0ng/bma6kf6p54pwa2j/4336911.mp4",
           label: "720p"
         },
         {
