@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://youtu.be/WVPDtMT46yw",
+            "https://streamvid.net/pmxs8nevfinb",
           label: "720p"
         },
         {
