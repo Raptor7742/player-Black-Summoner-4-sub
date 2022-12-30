@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://upstream.to/embed-85aaq56hwozt.html",
+            "https://public.am.files.1drv.com/y4mjfWtjT165XVAaH5YJry3qbokD27ZaNDnMyv1nBvstz1HPv6qQMlqY5EgeaCn8rMY06xugOz7xt2hN4bL1AAwa0g3G3KjBFYgrVHSgGZRrgk7CZqsnqYOna63nEZOsjlqiU2nlyf1XkImNEKFWtHa5TJcfCiLYJvMQm_XnQrXG2e_VxKDVdTuqkrDXs6FTmgMyT7fy3BKIJtCw1c3oBLSuySXTnhhaH9r9u5egcHtLEw?",
           label: "720p"
         },
         {
