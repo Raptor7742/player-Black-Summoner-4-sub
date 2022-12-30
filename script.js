@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://rr4---sn-25glenl6.c.drive.google.com/videoplayback?expire=1672434737&ei=8RuvY4z5A7XlgwOo2aIo&ip=2a01:cb04:710:1c00:453a:f5d5:c1b8:a87a&cp=QVRMVEVfU1dRSFhPOmFaTUx2dFJyMmJJa01Nb1dIX3RVR2pUMnFLUmw0RVN3LS1LUnpjR0FuaTU&id=ace3b7246d24102d&itag=22&source=webdrive&requiressl=yes&mh=2p&mm=32&mn=sn-25glenl6&ms=su&mv=m&mvi=4&pl=45&ttl=transient&susc=dr&driveid=1TWUlCXg1CkKVXPmW1fCnUtsMKF9KLD5l&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=1440.124&lmt=1661657590248624&mt=1672419889&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgbj3oKaWYek-SAYw301-pAkYBBmDbh_xZFG--HYVYlQMCIGF7IGTrLEm1lE7ltJrxlkEveVz1tFDAHIilJ6lrefvw&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAMHZpv0DuWyrNk1SvnnNAkqBqQP7by7t0sLIeUWP1GH5AiAFkztOcA6GbOt6DX-BJfr2i0kXuC5i9ZTEVXIEYyaXjg==&cpn=PVuSlZ5rs3u8bBg1&c=WEB_EMBEDDED_PLAYER&cver=1.20221218.00.00",
+            "https://youtu.be/WVPDtMT46yw",
           label: "720p"
         },
         {
