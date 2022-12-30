@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://1drv.ms/v/s!Ag5emSq98Gylth8I4u_BvnenFc6D?e=mEoYdH",
+            "https://onedrive.live.com/embed?cid=A56CF0BD2A995E0E&resid=A56CF0BD2A995E0E%216943&authkey=ANr57hgdeY3T9-Y",
           label: "720p"
         },
         {
