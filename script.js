@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://drive.google.com/file/d/1flWaI49xRSL7N-NE7KYLHB3FHcW7RqM2/view?usp=share_link",
+            "https://mega.nz/file/4GsRlSiI#rl45k5M987JCaacPQjcFFowS6gEgZtSRnGlGtbTfe60",
           label: "720p"
         },
         {
