@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://mega.nz/file/4GsRlSiI#rl45k5M987JCaacPQjcFFowS6gEgZtSRnGlGtbTfe60",
+            "https://2448361416.tapecontent.net/radosgw/7X9kKY8gG6hAgbg/gwU0zxxqtpqP-C_Hh5d_AMFRBjevAL67cav5DquCR-wOy8I78fTh8XujOS4LfTKcVGnpd0QN0eBml6dtK8MOzhb0MJF6OcIxixmgDQn7xpmHVXF6sowBx_I2XaIkpBKh_dQ6njPlOkVaaST9oI2HvAoGTrjaGgSoz9i7S6taVL2I6OzptoIKEgzlWXrvLHutEEszQJEQDpF90nnrga_HJ7UuiCz0rmQ4nprIRhY_DKf4iz9matmRw3AEjCsFDMJnIbeDU54z4BRu9ZLfZO3pInGYdqhQozkhbfLtmvJeJLmGHtavSY5TkkKCO9c/One%2BPiece%2BFilm%2BRed%2B-%2BVOSTFR.mp4?stream=1",
           label: "720p"
         },
         {
