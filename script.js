@@ -42,7 +42,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://videos2-h.sendvid.com/hls/a9/da/milst0dh.mp4/master.m3u8?validfrom=1672497678&validto=1672504878&rate=250k&ip=86.246.123.239&hdl=-1&hash=YTSirfiPt6m6uwp2JABgOGH5Mf8%3D",
+            "",
           label: "480p"
         },
         {
