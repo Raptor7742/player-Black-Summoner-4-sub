@@ -42,7 +42,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://streamlare.com/v/MqN9nG3Exb2ngxeA",
           label: "480p"
         },
         {
