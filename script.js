@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://onedrive.live.com/embed?cid=A56CF0BD2A995E0E&resid=A56CF0BD2A995E0E%216943&authkey=ANr57hgdeY3T9-Y",
+            "https://icecube-eu-300x1.icedrive.io/download?p=Wu6YWDE2TWRkkCXWHNt1AG663gJpcY37xgUMSkqeN9UHnwg0RjoqAxMgjyhZD180nFqSGpzgewZItQlmJ3lQPQWsXUwq3Al8djOnej7FdOTN5tZwylZZQKaNyYiq507_sJV5fjz8MUajlibNO0gep1AYVluP6RdcfMaeZ87QrkLm9pfTzXqRRKmtc13tindiqI1Ovzgjgzsz.g9qghgTLvStndUPmMmLrpdoMCYlTmfOW.1NtDbXVTvkyXczNrvQ",
           label: "720p"
         },
         {
