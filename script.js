@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://m205.syncusercontent.com/mfs-60:b87b5cae99bd53cec8428b5fe32d085c=============================/p/Black%20Summoner%204.mp4?allowdd=0&datakey=rzvZjVGGcHpfgcWTv+tnqh7lnMb6/sVyomGTTQU4MrATAnTn8qLaGoPkxFor/BVY6C+3tA+3vTcqeFet9nBT3dP7xtsifK8Vkjad/xHNW7wP1FEE1OAjJezxUNL8mc96i4rqme5og3LzqI1Tmc7f3ZmOXwsPyZPirzeqQbSHunfTec0UqFRwXE18XQhX7vHJ4r6tSI/42//AtwTabd6K+8tE0lH2UsZt3pB3ocP3Ps9zXrHmEZ1VPeISiLMZZ8IAjTTXasJeDpDyC4aeOBCjmy6CVdwjUZZRXP51XiGUvwATpiNnwx0rc/2bcdfIMQmtfZGwqCsakGL9b+pjp2ndTg&engine=ln-2.3.7.3&errurl=h8HY2lObED7TsJdreGQME79tAG34OG82bgTssaPF+2Lc/dM6FX+4wjDCEp8QMAmISo6iUww+OIZ6eSWA926SAYweK5reEzyZyRL7cX8zI5ktrO2VxYUJ3DBynnQFmU0pn4jOqVVpgVCzLrBSS0rByuvLG2Mgymv3c9/bo36OKWzOJlMAwUC+iBFcHvokptA92gZfM+7FgboMd3ib0LHBuVnzyn2gcPI3AY1uL0aR6Vy1pQ6b68LAN5aMWN0YW9C2Kg429mEIBL+daunUgHhPaOTFYzorJ4hrJsBT0Ok1zLUJg3iBAQS4fSWJYRIchmq0djrjDlbIdrX51M8pVv+HNA==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iQmxhY2slMjBTdW1tb25lciUyMDQubXA0IjtmaWxlbmFtZSo9VVRGLTgnJ0JsYWNrJTIwU3VtbW9uZXIlMjA0Lm1wNDs&ipaddress=1458994159&linkcachekey=36f9d23c0&linkoid=1546180013&mode=101&sharelink_id=8020804040013&timestamp=1672576774196&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=71b532ec7d27f246baa0f3b291f2e3a42fb63d71&cachekey=60:b87b5cae99bd53cec8428b5fe32d085c=============================",
+            "https://dl.videas.fr/v-medias/s3/uploaded/Puss.in.Boots.The.Last.Wish.2022.TRUEFRENCH.1080p.AMZN.WEB-DL.DDP5.1.H264-CM_1.mp4?fileName=pussinbootsthelastwish2022truefrench1080pamznweb-dlddp51h264-cm-1mp4-source.mp4",
           label: "720p"
         },
         {
